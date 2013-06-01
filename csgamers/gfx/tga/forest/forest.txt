@@ -1,0 +1,44 @@
+forest.zip:  Forest -  Environment map for Quake2, Half-life and Sin  
+by Murray Christian  (contact: fluxion@ii.net)
+
+Created in Bryce4 
+released September 15th, 1999
+  
+
+Fragging in a smallish thicket of very large trees.
+It's not much of a forest really.  Not enough trees.
+Although if there were too many more My PC might have caught fire.
+It's generally pretty simple in construction though.
+
+This was originally made for the Ewok Village AQ2 map by Ray Yeung
+(hence the scale)
+
+
+
+Links:
+My tutorial: http://www.gamedesign.net/quake2/tutorials/bryce2/bryce2.shtml
+Other skies: http://aqmd.action-web.net/res/skies/mjc/index.shtml
+thanks to the folk at the AQ Mapdepot for the hosting
+Web site : http://fluxion.ii.net/ (nothing sky related)
+
+
+
+Instructions: Quake2 uses both versions of the sky;  Half-life and Sin only 
+need the .tga files.
+for placement and use of these files check Primordial Soup's procedure.
+http://www.telefragged.com/soup/
+and check out Darc's own lovely skies while you're at it.
+
+
+
+Agreement stuff:
+If you do anything with this sky, please tell me about it and keep this .txt file with it.
+This sky is free for use by mappers or anyone else not trying to make a profit from it.
+If you're not sure, drop me a line. (you might be surprised how agreeable people can be).
+
+
+
+enjoy
+
+
+MJC.......... aka Muzman     (fluxion@ii.net)

@@ -1,0 +1,20 @@
+Snow - bomb/defuse
+Map by Xeroni WWM (www.xeroni.com)
+Author can be find at skype: pasaudantis
+
+Xeroni WWM presents a new plan with snowy-dust environment
+for 2x2 and 3x3 cups/matches.
+
+This is a map with calculated CTs ant Ts run ratios
+to bomb site, map is a little better for terrorists.
+There is only one bomb site in the map.
+You can find map credits behind xeroni logo.
+
+Best for playing 1x1 2x2 3x3.
+
+Xeroni WWM Testing rate: Excellent(9.0)
+
+Meet us on: http://www.xeroni.com (info@xeroni.com).
+Release date: 2012-04-08
+
+Have a good reaction day.
