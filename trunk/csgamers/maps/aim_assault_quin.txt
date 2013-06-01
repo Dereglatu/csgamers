@@ -1,0 +1,27 @@
+----General Information---
+
+Title : aim_assault_quin
+Filename : aim_assault_quin.bsp
+Author : Bram Buermans aka Quindoo
+Author Email : bbuermans@msn.com
+Home page : http://s14.invisionfree.com/clan_xa/
+Description : This map is based on the original 
+map cs_assault. aim_assault_quin is a map based
+on two sides with two teams, each team has to
+kill the other team.
+
+---Credits and Thanks---
+Thank you for using this map
+and i thank everyone who plays this map
+
+---Play Information---
+Map Description	: Aim map
+How Many Players : 24
+
+---Map Information---
+New Textures : No
+New Sounds : No
+---Construction---
+
+Editor used : Valve Hammer Editor 3.4
+Base : cs_assault

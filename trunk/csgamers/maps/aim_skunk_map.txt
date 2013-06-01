@@ -1,0 +1,21 @@
+>> CESKY <<
+AIM_SKUNK_MAP - AIM
+*** 5kUnKiCz ***
+vytvoril Martin "5kUnKiCz" Rotter
+e-mail : Skunkic@seznam.cz
+
+Counter-Teroriste: Zabijte vsechny Teroristy.
+Teroriste: Zabijte vsechny Policajty.
+Dalsi udaje: V mape jsou 2 vezicky, zem je zaplavena vodou,
+zbrane jsou take na zemi.
+
+>> ENGLISH <<
+AIM_SKUNK_MAP - AIM
+*** 5kUnKiCz ***
+by Martin "5kUnKiCz" Rotter
+e-mail : Skunkic@seznam.cz
+
+Counter-Terrorists: Kill all Ts via kind
+you wanna.
+Terrorists: Kill all CTs via weapon you wanna.
+Other Notes: There are 2 towers, water downside etc.
