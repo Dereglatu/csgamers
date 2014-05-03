@@ -1,0 +1,30 @@
+Dust D01
+
+***** Exclusive *****
+
+Made by: GorgHeLL
+Web: http://www.d01.ro
+E-Mail: d01@hush.com
+Yahoo Messenger: gorghellsefu
+
+CT:
+Counter Terrorists have to prevent the Terrorist
+attack. The Terrorists will try to bomb one of the
+nuclear drop zones.
+
+Team members have to defuse any bomb that threatens
+the nuclear drop zones.
+
+T:
+Terrorists which have the C4 charge will have to
+destroy at lease one of the nuclear drop zones.
+
+OTHER NOTES:
+This is an alternative version of Dust II. 
+Among the changes are the breakable arch doors 
+that can now be destroyed by firing at them, 
+the watch tower from the CT base, more player 
+slots and other changes that you can discover 
+yourself by playing the map.
+
+GL & HF

@@ -1,0 +1,37 @@
+Lakeside - Defuse/Bomb
+
+Author: ACube (Andre Alves)
+Email: dark_dna@hotmail.com
+URL: http://a3maps.be.tf/
+
+-------------------------------------------------------------------
+
+DE_NAZCA2
+
+32 players map.
+
+
+An army convoy has stocked chemical products in an ancient civilisation.
+In the Nazca Pampa, terrorists try to blow up these extremely dangerous 
+chemical products.
+The CT's have to prevent this ecological catastrophy.
+
+
+there is 2 BombSites!
+
+-------------------------------------------------------------------
+
+---------------- CREDITS:------------------
+
+Models from:
+
+- The doenerkingmaps
+http://thedoenerking.myexp.de/news.php
+
+
+TEXTURES: 
+
+X-Tender and -S2K- MADNESS WAD
+ 
+
+(Press FIRE to continue)

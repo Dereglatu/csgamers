@@ -1,0 +1,13 @@
+Romania 2011 - Bomb/Defuse
+
+by Tatu Eugen (www.tatueugen.info)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing crates form site.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the site. 
+
+Other Notes: There are 2 bomb site in the mission.

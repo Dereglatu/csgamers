@@ -1,0 +1,11 @@
+de_mix_infern.wad
+itsitaly.wad
+torntextures.wad
+cached.wad
+cs_cbble.wad
+cs_havana.wad
+cstrike.wad
+maps/de_mix_infern.res
+maps/de_mix_oldcity_b.bsp
+overviews/de_mix_oldcity_b.txt
+overviews/de_mix_oldcity_b.bmp
