@@ -1,0 +1,11 @@
+maps/awp_snowing.bsp
+maps/awp_snowing.res
+awp_snowing.wad
+models/awp_snowing/tree_noleaves2.mdl
+sound/awp_snowing/map_wind2.wav
+gfx/env/polarnight1bk.tga
+gfx/env/polarnight1dn.tga
+gfx/env/polarnight1ft.tga
+gfx/env/polarnight1lf.tga
+gfx/env/polarnight1rt.tga
+gfx/env/polarnight1up.tga

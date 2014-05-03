@@ -1,0 +1,11 @@
+Dust2 Mirror - Bomb/Defuse
+By Dewolt. (dewoltas@gmail.com)
+
+>>> In this map there are 2 mirrored sides
+of original Dust2.
+
+Terrorists: Carrying the C4 must destroy
+explosive crates placed in 2 bomb sites.
+
+Counter-Terrorists: Prevent Terrorists from
+destroying explosive crates in any way.

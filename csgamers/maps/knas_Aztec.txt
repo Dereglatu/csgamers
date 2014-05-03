@@ -1,0 +1,32 @@
+Mapname         :   knas_Aztec
+
+Description     :   A (de) Bomb/Defuse map. 
+
+Map objectives  :   Terrorists: Blow up the ammo storages.
+		    Counter-Terrorists: Take out the terrorists before they blow you away.
+No. Players	:   16 T / 16 CT, 32 players maximum.
+
+Created         :   18:26 2004-04-20
+
+Textures used	:   cstrike.wad
+		    halflife.wad
+		    de_aztec.wad
+		    de_piranesi.wad
+		    cs_dust.wad
+		    chateau.wad
+		    torntextures.wad
+		
+Mapper          :   RunE 
+Contact         :   rune@knas.net 
+WWW             :   www.knas.net
+
+Credits         :   all knas.net members, friends and ofcourse my family!
+		   
+Terms of Usage  :   You may disribute this map freely, as long as this 
+		    textfile is included. Please drop me an e-mail with 
+		    your comments about this map and tell me if you are 
+		    using it on your server.
+
+
+
+(Press FIRE to continue)

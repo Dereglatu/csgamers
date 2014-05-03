@@ -1,0 +1,14 @@
+Minicity - Bomb/Defuse
+by Un1x (un1x92@gmail.com)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the chemical 
+weapon stash. 
+
+Other Notes: There are 1 chemical 
+weapon stash in the mission.
