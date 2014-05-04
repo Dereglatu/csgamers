@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------
-======= Megacs.Ro Counter Strike 1.6 Cleaner =========
+======= Spkcs.Com Counter Strike 1.6 Cleaner =========
 ------------------------------------------------------------------------------
 
 If you see this file, there is a serious vulnerability in your Counter-Strike client.
@@ -17,5 +17,5 @@ List of files possibly modified:
          cstrike/resource/gamemenu.res
          cstrike/motd.txt
 
-For any other sugestion please contact us at master@steamx.ro
+For any other sugestion please contact us at contact@spkcs.com
 Version Relese 17.02.2014
